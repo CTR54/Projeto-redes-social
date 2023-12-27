@@ -1,0 +1,9 @@
+body{
+    background-image: url(imagem/fundo-amadeirado.avif);
+}
+
+section{
+    display: block;
+    left: 1000px;
+    
+}
